@@ -45,14 +45,14 @@ npm run build
 npm run preview
 ```
 
-## Important Note About GSAP Trial Plugins
+## Important Note About GSAP Plugins
 
-This project references `gsap-trial` plugins for animation workflow.  
-Trial plugins are not meant for commercial production hosting.
+This project uses the standard `gsap` package (including bonus plugins that are now free).  
+Do not use `gsap-trial` in production deployments.
 
-For official production usage, use licensed GSAP plugins from:
+Official docs:
 
-https://gsap.com/
+https://gsap.com/docs/
 
 ## Usage Policy
 
